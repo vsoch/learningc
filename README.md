@@ -88,4 +88,24 @@ If you provide an input value (a number of kilometers) it will convert it to mil
       5.00 kilometers is 3.11 miles.
 
 
+# Planet Weights
 
+I'm just having fun at this point. This script asks for your weight in pounds, and then returns your weight on several planets and the sun!
+
+      gcc planetweights.c -o planetweights
+      ./planetweights
+
+      Please enter your weight in pounds: 
+      130
+      Your weight on Earth is 130.00 pounds.
+      Your weight on Jupiter is 307.32 pounds.
+      Your weight on Mars is 49.01 pounds.
+      Your weight on Mercury is 49.14 pounds.
+      Your weight on Moon is 21.58 pounds.
+      Your weight on Neptune is 146.25 pounds.
+      Your weight on Pluto is 8.71 pounds.
+      Your weight on Saturn is 138.32 pounds.
+      Your weight on Sun is 3519.36 pounds.
+      Your weight on Uranus is 115.57 pounds.
+
+Learning new languages is so great :)
